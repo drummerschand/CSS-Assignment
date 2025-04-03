@@ -1,0 +1,57 @@
+.all-content{
+    width: 500px;
+    height: 700px;
+    border: 2px solid red;
+    margin: 10px auto;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo{
+    margin-top: -120px;
+}
+.logo h2{
+    text-align: center;
+    /* padding-left: 140px; */
+    margin-top: -140px;
+    opacity: 80%;
+}
+.login{
+    width: 280px;
+    margin: 50px auto;
+    text-align: center;
+}
+.input{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    font-size: 12px;
+    border: 1px solid rgb(0,0,0,0.3);
+    border-radius: 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.login-btn{
+    margin-top: 10px;
+    background-color: black;
+    padding: 13px;
+    border: none;
+    width: 70%;
+    box-sizing: border-box;
+    color: white;
+    font-size: 16px;
+    border-radius: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+}
+.footer{
+    color: rgb(0, 0, 0, 0.5);
+    width: 350px;
+    margin: 70px auto;
+    text-align: center;
+    font-size: 15px;
+}
+.footer a{
+    color: rgba(0, 0, 255, 0.507);
+}
