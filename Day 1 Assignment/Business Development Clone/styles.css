@@ -1,0 +1,40 @@
+h1{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+p{
+    /* text-align: center; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -20px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.bd-card{
+    height: 600px;
+    width: 700px;
+    background-color: rgb(83, 229, 154);
+    margin: 60px auto;
+    border-radius: 20px;
+    box-sizing: border-box;
+    
+}
+.header{
+    padding: 120px;
+    margin-left: -50px;
+}
+.ideas{
+    height: 50px;
+    width: 250px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: -100px;
+    border-radius: 30px;
+}
+.content{
+    text-align: center;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
