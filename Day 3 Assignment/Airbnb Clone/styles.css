@@ -164,7 +164,7 @@ body {
 }
 .content {
     display: flex;
-    gap: 20px;
+    gap: 25px;
     flex-wrap: wrap;
     margin: 85px;
     margin-top: 10px;
@@ -175,13 +175,15 @@ body {
     width: 322.2px;
     height: 402.09px;
     background-color: #fff;
-    border: 1px solid lightgray;
+    /* border: 1px solid lightgray; */
     position: relative;
+    border-radius: 15px 15px 0px 0px;
 }
 .card-img {
     width: 100%;
     height: 306.9px;
     object-fit: cover;
+    border-radius: 15px;
 }
 .card span {
     background-color: white;
